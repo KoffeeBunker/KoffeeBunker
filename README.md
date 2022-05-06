@@ -4,9 +4,9 @@
 Olá! Meu nome é Henry Bastos da Silva, nasci em São Bernardo do Campo, São Paulo, em 2002, mas morei praticamente toda minha vida em Florianópolis, Santa Catarina. Desde pequeno sempre gostei de gravar vídeos e fazer desenhos no antigo Paint, até que decidi começar um canal no You Tube. A partir dali eu comecei a aprender a editar vídeos, fazer thumbnails e foi com o You Tube que eu descobri que gostava de edição e manipulação audiovisual. Concomitantemente eu fazia alguns sites simples com puro HTML, CSS e JS.
 
 <div>
-  <a href="https://github.com/KoffeeBunker" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KoffeeBunker&theme=ocean_dark&show_icons=true&border_radius=6px&custom_title=My+GitHub+Stats&border_color=444c56&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoffeeBunker&theme=ocean_dark&border_radius=4px&border_color=444c56&layout=compact&hide_border=true" />
+  <a href="https://github.com/henrybastos" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrybastos&theme=ocean_dark&show_icons=true&border_radius=6px&custom_title=My+GitHub+Stats&border_color=444c56&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrybastos&theme=ocean_dark&border_radius=4px&border_color=444c56&layout=compact&hide_border=true" />
 </div>
 
 ###
